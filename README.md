@@ -49,7 +49,7 @@
 ### 📚 What I'm up to these days:
 I'm always trying to learn something new, even if it's from stuff I already know a lot about, or *so I think*. You'd be surprised of how much you can learn from revisiting the basics.
 
-Recently I joined the [Rocketseat](https://rocketseat.com.br/) **Ignite** bootcamp. It's a full-stack course that focuses on React, NodeJS and React Native, from the basics all the way to the advanced stuff and even get to practice by building real projects throughout the path. Check my repositories to see where this is going!
+Recently I joined the [Rocketseat](https://rocketseat.com.br/) **Ignite** bootcamp. It's a full-stack course that focuses on React, NodeJS and React Native, from the basics all the way to the advanced and we even get to practice by building real projects throughout the path. Check my repositories to see where this is going!
 
 You can check what I've been studying on my [schedule](https://www.notion.so/Cronograma-de-estudos-0079197afed140599389e3b0d7c7a223) or checkout my [study repository](https://github.com/thayssn/estudos).
 
