@@ -8,7 +8,7 @@
 
 🎲 When I have the chance I work on my personal project, [Arena Fortnite](https://arenafortnite.com.br).
 
-🧩 I really enjoy learning new things and solving all types of puzzles while listening to lo-fi.
+🧩 I really enjoy learning new things and solving all types of puzzles while listening to [lo-fi versions of brazilian songs](https://www.youtube.com/watch?v=qqfMAf3IFE0) (seriously).
 
 [![Linkedin: thayssn](https://img.shields.io/badge/-thayssn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thayssn/)](https://www.linkedin.com/in/thayssn/)
 [![GitHub thayssn](https://img.shields.io/github/followers/thayssn?label=follow&style=social)](https://github.com/thayssn)
