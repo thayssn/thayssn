@@ -75,5 +75,7 @@ You can check what I've been studying on my [schedule](https://www.notion.so/Cro
 **active project:** [Arena Fortnite](https://arenafortnite.com.br)
 
 **linkedin:** [thayssn](https://www.linkedin.com/in/thayssn/)
+  
+**codepen:** [thayssn](https://codepen.io/thayssn)
 
 </code>
