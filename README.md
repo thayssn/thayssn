@@ -36,7 +36,7 @@
 
 **born:** July 1992
 
-**works at:** Omelete Company, since 2017
+**works at:** Idwall
 
 **lives in:** São Paulo, Brazil
 
