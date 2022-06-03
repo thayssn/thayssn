@@ -40,7 +40,7 @@
 
 **lives in:** São Paulo, Brazil
 
-**speaks:** Portugues | English | Spanish
+**speaks:** Portuguese | English | Spanish
 
 **main language:** Javascript
 
