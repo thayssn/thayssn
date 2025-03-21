@@ -34,7 +34,7 @@ mora em: São Paulo (SP)
 trabalho: Idwall
 linguagem: Javascript
 fala: Português | Inglês | Espanhol (o famoso 'portunhol' 😆)
-projeto ativo: A.B.E.L.H.A.N.D.O (https://thayssn.github.io/abelhando)
+projeto ativo: [A.B.E.L.H.A.N.D.O](https://thayssn.github.io/abelhando)
 ```
 
 
@@ -46,5 +46,5 @@ lives in: São Paulo, Brazil
 work: Idwall
 programming language: Javascript
 speaks: Portuguese | English | Spanish (mixed with a little bit of portuguese 😆)
-active project: A.B.E.L.H.A.N.D.O (https://thayssn.github.io/abelhando)
+active project: [A.B.E.L.H.A.N.D.O] (https://thayssn.github.io/abelhando)
 ```
