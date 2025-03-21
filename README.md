@@ -11,8 +11,8 @@
 ##### 💻 Atualmente eu estou trabalhando como Senior Software Engineer na [Idwall](https://idwall.co/)
 <sup>At the moment I work as a Senior Sowftware Engineer at [Idwall](https://idwall.co/).</sup>
 
-##### 🎮 Meu projeto mais recente foi o jogo [A.B.E.L.H.A.N.D.O](https://abelhando.site/) (somente mobile), inspirado no Spelling Bee, mas com palavras portuguesas.
-<sup>My most recent project was the game [A.B.E.L.H.A.N.D.O](https://abelhando.site/) (mobile only), a Spelling Bee inspired game but with portuguese words</sup>
+##### 🎮 Meu projeto mais recente foi o jogo [A.B.E.L.H.A.N.D.O](https://thayssn.github.io/abelhando) (somente mobile), inspirado no Spelling Bee, mas com palavras portuguesas.
+<sup>My most recent project was the game [A.B.E.L.H.A.N.D.O](https://thayssn.github.io/abelhando) (mobile only), a Spelling Bee inspired game but with portuguese words</sup>
 
 ##### 🧩 Eu estou sempre em busca de aprender coisas novas, resolver puzzles e adoro escutar um Tim Maia Lo-Fi. 
 <sup>I'm always looking forward to learn new things, solving all types of puzzles and listen to some [lo-fi versions of brazilian songs](https://www.youtube.com/watch?v=qqfMAf3IFE0) (seriously).</sup>
@@ -34,7 +34,7 @@ mora em: São Paulo (SP)
 trabalho: Idwall
 linguagem: Javascript
 fala: Português | Inglês | Espanhol (o famoso 'portunhol' 😆)
-projeto ativo: A.B.E.L.H.A.N.D.O (https://abelhando.site/)
+projeto ativo: A.B.E.L.H.A.N.D.O (https://thayssn.github.io/abelhando)
 ```
 
 
@@ -46,5 +46,5 @@ lives in: São Paulo, Brazil
 work: Idwall
 programming language: Javascript
 speaks: Portuguese | English | Spanish (mixed with a little bit of portuguese 😆)
-active project: A.B.E.L.H.A.N.D.O (https://abelhando.site/)
+active project: A.B.E.L.H.A.N.D.O (https://thayssn.github.io/abelhando)
 ```
